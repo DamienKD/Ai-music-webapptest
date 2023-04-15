@@ -1,0 +1,10 @@
+.note
+{
+    font-size: 20px;
+}
+
+canvas
+{
+    border: 12px;
+    box-shadow: 20, 20, 20, greenyellow;
+}
